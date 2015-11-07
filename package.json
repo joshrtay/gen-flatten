@@ -1,7 +1,7 @@
 {
-  "name": "@weo-edu/genit",
+  "name": "gen-flatten",
   "description": "Generator iteration library.",
-  "repository": "git://github.com/weo-edu/genit.git",
+  "repository": "git://github.com/joshrtay/gen-flatten.git",
   "version": "0.1.0",
   "license": "MIT",
   "main": "lib/index.js",
