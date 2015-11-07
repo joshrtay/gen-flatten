@@ -1,13 +1,36 @@
 
-# Flatten
+# gen-flatten
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-Generator iteration library.
+Flatten nested generators.
 
 ## Installation
 
-    $ npm install @weo-edu/genit
+    $ npm install gen-flatthen
+
+## Usage
+
+```js
+import flatten from 'gen-flatten'
+
+let it = flatten(nested)()
+
+// 1
+it.next()
+// 2
+it.next()
+
+function * nested () {
+  yield 1
+  yield two()
+}
+
+function * two () {
+  yield 2
+}
+
+```
 
 ## License
 
