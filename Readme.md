@@ -7,7 +7,7 @@ Flatten nested generators.
 
 ## Installation
 
-    $ npm install gen-flatthen
+    $ npm install gen-flatten
 
 ## Usage
 
