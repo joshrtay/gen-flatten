@@ -1,7 +1,7 @@
 
 # gen-flatten
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![Codeship Status for joshrtay/gen-flatten](https://img.shields.io/codeship/d2d66b50-6886-0133-6268-262bff2f2afa/master.svg)](https://codeship.com/projects/114282) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 Flatten nested generators.
 
